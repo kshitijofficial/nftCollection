@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@thirdweb-dev/sdk": "^3.2.5"
+  },
+  "type": "module"
+}
